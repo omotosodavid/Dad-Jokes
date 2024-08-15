@@ -16,11 +16,11 @@ This is a simple web application that fetches random "Jokes" from an API and dis
 https://github.com/davidomotoso/Api-Jokes.git
 ```
 
-2. Open the HTML file ( Api Jokes.html ) in your preferred web browser.
+2. Open the HTML file ( index.html ) in your preferred web browser.
 
 ### Usage
 
-1. Open the Api Jokes.html file in a web browser.
+1. Open the index.html file in a web browser.
 
 2. You will see a button labeled "Random Jokes" on the screen.
 
@@ -34,11 +34,11 @@ https://github.com/davidomotoso/Api-Jokes.git
 
 ### Code Overview
 
-The "Api Jokes.html" file contains the structure of the web page. It includes the necessary HTML elements, such as a button and a div to display the joke.
+The "index.html" file contains the structure of the web page. It includes the necessary HTML elements, such as a button and a div to display the joke.
 
-The Api Jokes.css file contains the styles for the web page.
+The dad Jokes.css file contains the styles for the web page.
 
-The Api Jokes.js file contains the JavaScript code that fetches a random Daddy joke from the API and updates the output area with the joke text.
+The dad Jokes.js file contains the JavaScript code that fetches a random Daddy joke from the API and updates the output area with the joke text.
 
 The JavaScript code listens for a click event on the button. When the button is clicked, it changes the button text to "Please wait a sec..." and calls the fetchJokes() function.
 
