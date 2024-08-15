@@ -13,7 +13,7 @@ This is a simple web application that fetches random "Jokes" from an API and dis
 
 1. Clone the repository into your local machine using the following command:
 ```
-https://github.com/davidomotoso/Api-Jokes.git
+https://github.com/omotosodavid/Dad-Jokes.git
 ```
 
 2. Open the HTML file ( index.html ) in your preferred web browser.
